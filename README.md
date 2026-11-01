@@ -36,6 +36,7 @@ Transform your "parked time" with a sleek, modern browser designed specifically 
 - 🚀 **Dynamic Start Page:** Up to 6 quick-link tiles with smooth drag-and-drop reordering, cached site icons, and custom background image support.
 - 🗂️ **Desktop-Class Tab Management:** Easily open, switch, close, and restore multiple browser tabs directly from your dashboard.
 - 🚗 **Car-First Controls:** One-touch mobile/desktop mode switching, global UI scaling, and intuitive bookmark management designed for head units.
+- 🛡️ **Built-in AdBlock & YouTube Skipper (Custom Mod):** This modified version includes a built-in network adblocker and a JavaScript-based auto-skipper for YouTube video ads.
 
 ### 📸 Screenshots
 
@@ -186,6 +187,19 @@ I'm a solo student developer building and maintaining **AA Browser** in my spare
 </div>
 
 *If you sponsor the project, please let me know in the Discussions! I'd love to add you to our sponsors list as a token of my gratitude.*
+
+---
+
+## 📜 Modification Notice (GPLv3 Compliance)
+
+This is a **modified version** of the original [AABrowser by kododake](https://github.com/kododake/AABrowser). 
+In compliance with the GPLv3 license, the following modifications have been made to the original source code:
+*   **Ad-Blocker Added:** Network-level request interception to block known ad domains in `BrowserWebViewClient.kt`.
+*   **YouTube Ad-Skipper Added:** JavaScript injection to automatically skip and hide YouTube video ads.
+
+The original copyright belongs to **kododake**. This modified version is also released under the exact same **GPLv3 License**. You can find the full source code for these modifications in this repository. 
+
+**Safety Reminder:** As stated by the original creator, this browser should only be used by passengers or while parked. Do not use this application while driving.
 
 ---
 **Stay safe, keep your eyes on the road, and happy browsing! 🚗💨**
