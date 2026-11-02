@@ -55,7 +55,7 @@ In accordance with Section 5 of the GPLv3 license, the following modifications h
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/NimzPatel/AABrowser-adfree.git](https://github.com/NimzPatel/AABrowser-adfree.git)
+   git clone (https://github.com/NimzPatel/AABrowser-adfree.git)
    ```
 2. Open the project in **Android Studio**.
 3. Let Gradle sync, then select **Build > Build Bundle(s) / APK(s) > Build APK(s)**.
