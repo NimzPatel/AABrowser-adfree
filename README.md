@@ -1,205 +1,75 @@
-# <img src="https://github.com/user-attachments/assets/fa4252fa-b71e-4c87-9b93-d8ad832434cc" width="48" height="48" valign="bottom" /> AA Browser
+# 🚗 AABrowser Ad-Free
 
-<a href="https://trendshift.io/repositories/45344" target="_blank"><img src="https://trendshift.io/api/badge/repositories/45344" alt="kododake%2FAABrowser | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Platform](https://img.shields.io/badge/Platform-Android%2015%2B%20%7C%20Android%20Auto-green.svg)](https://github.com/NimzPatel/AABrowser-adfree)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nimez)
 
-[![Android](https://img.shields.io/badge/Android-15%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-[![License](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
-[![Sponsor](https://img.shields.io/badge/Sponsor-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/kododake)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/kododake)
-[<img src="https://img.shields.io/badge/Download_APK-GitHub_Releases-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="Download APK on GitHub Releases">](https://github.com/kododake/AABrowser/releases/latest)
-[<img src="https://github.com/user-attachments/assets/1551eaef-432d-4634-875c-f085870d00a1" alt="Get it on Obtainium" height="40">](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.kododake.aabrowser%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fkododake%2FAABrowser%22%2C%22author%22%3A%22kododake%22%2C%22name%22%3A%22AABrowser%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22sortMethodChoice%5C%22%3A%5C%22date%5C%22%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22%5C%22%2C%5C%22appAuthor%5C%22%3A%5C%22%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%2C%5C%22includeZips%5C%22%3Afalse%2C%5C%22zippedApkFilterRegEx%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3Anull%7D)
-
-**The ultimate WebView browser experience for Android Auto head units.**
-Transform your "parked time" with a sleek, modern browser designed specifically for the road.
-
-> [!CAUTION]
-> **Beware of Fake Websites**
-> Fake websites impersonating AA Browser have appeared. **This GitHub repository (https://github.com/kododake/AABrowser) is the ONLY official source.** To prevent malware infections and financial damage, absolutely do not trust or download from any other websites.
-
-> [!NOTE]
-> **Requires Android 15 or later**
->
-> 📲 **Easy Install:** No need for a special installer. Just download and install.
->
-> 🚀 **Updates:** Using **[Obtainium](https://github.com/ImranR98/Obtainium)** (linked above) is recommended to keep the app automatically up to date without limitations. Alternatively, you can download the APK from [GitHub Releases](https://github.com/kododake/AABrowser/releases).
+**AABrowser Ad-Free** is a modified fork of [AABrowser](https://github.com/kododake/AABrowser) designed for Android Auto head units, featuring **built-in ad blocking** for a cleaner, faster browsing and video streaming experience while parked.
 
 ---
 
-<div align="center">
-  <img width="80%" src="docs/img/aabrowser3.gif" alt="AA Browser showcase screenshot" />
-</div>
+## 📜 Open Source Attribution & GPLv3 Compliance
+
+This project is a derivative work of **[kododake/AABrowser](https://github.com/kododake/AABrowser)** and is distributed under the terms of the **GNU General Public License v3.0 (GPLv3)**.
+
+* **Original Author:** [kododake](https://github.com/kododake) — Copyright (C) 2026 kododake
+* **Original Repository:** [https://github.com/kododake/AABrowser](https://github.com/kododake/AABrowser)
+* **Modified by:** [NimzPatel](https://github.com/NimzPatel) (2026)
+
+### Summary of Modifications in This Fork
+In accordance with Section 5 of the GPLv3 license, the following modifications have been made to the upstream source code:
+* **Ad-Blocking Engine:** Implemented network request interception (`shouldInterceptRequest`) / host-based ad filtering within the Android Auto `WebViewClient` to block advertisements, trackers, and pop-ups automatically.
+* **Custom Fork Packaging:** Updated documentation and build configurations for the `AABrowser-adfree` release.
+
+---
 
 ## ✨ Key Features
 
-- 🎨 **Material 3 Expressive UI:** Built specifically for car screens with fluid expressive animations, modern bottom sheets, and true-black AMOLED theme.
-- 🎬 **Immersive Video & Fullscreen:** Stream DRM-protected video (Widevine L3) and toggle instant fullscreen with a single tap for parked entertainment.
-- 🚀 **Dynamic Start Page:** Up to 6 quick-link tiles with smooth drag-and-drop reordering, cached site icons, and custom background image support.
-- 🗂️ **Desktop-Class Tab Management:** Easily open, switch, close, and restore multiple browser tabs directly from your dashboard.
-- 🚗 **Car-First Controls:** One-touch mobile/desktop mode switching, global UI scaling, and intuitive bookmark management designed for head units.
-- 🛡️ **Built-in AdBlock & YouTube Skipper (Custom Mod):** This modified version includes a built-in network adblocker and a JavaScript-based auto-skipper for YouTube video ads.
-
-### 📸 Screenshots
-
-<div align="center">
-  <img width="44%" src="docs/screenshots/litemode-v3_0.png" alt="AA Browser light mode live screenshot" />
-  <img width="44%" src="docs/screenshots/darkmode-v3_0.png" alt="AA Browser dark mode live screenshot" />
-</div>
+* 🛡️ **Built-In Ad Blocking:** Blocks intrusive ads, banners, and tracking scripts out of the box.
+* 🗂️ **Desktop-Class Tab Management:** Open, switch, close, and restore multiple browser tabs directly from your car's display.
+* 🚗 **Car-First Controls:** One-touch mobile/desktop mode switching, global UI scaling, and bookmark management tailored for head units.
+* 📱 **Android 15+ Native Projection:** Installs as a standard APK with no root or complex workarounds required.
 
 ---
 
-## 📱 Quick Start & Safety 🚦
+## 📲 How to Install
 
-#### 🛑 Developer's Safety Request
+### 1. Enable Unknown Sources in Android Auto
+1. Open your phone's **Settings** and search for **Android Auto**.
+2. Scroll to the very bottom and tap the **Version** section **10 times** to unlock Developer Mode. Tap **OK** on the prompt.
+3. Tap the three-dot menu (**⋮**) in the top-right corner and select **Developer settings**.
+4. Scroll down and enable the **Unknown sources** checkbox.
 
-- **Driver's Duty:** If you're the one steering, **DO NOT LOOK AT THIS APP.** If you think your eyes might wander while driving, **uninstall it right now!** Seriously, your safety is my top priority.
-- **Passenger's Joy:** This app is for your passengers or for when you are safely parked.
-- **Legal Note:** I built the code, but the **GPLv3 license** means I am **NOT RESPONSIBLE** for your actions. Drive smart!
-
----
-
-#### 🛠️ How to Enable Unknown Sources on Android Auto
-
-To use this app, you must unlock the hidden Developer Settings.
-
-1. **Open Android Auto Settings:** Search for "Android Auto" in your phone's settings.
-2. **Unlock Developer Mode:** Scroll to the bottom and **tap the "Version" section 10 times**. Tap **OK** on the pop-up.
-3. **Open Developer Settings:** Tap the **three-dot menu (⋮)** in the top-right corner -> **Developer settings**.
-4. **Enable Unknown Sources:** Find the **Unknown sources** checkbox and turn it on.
+### 2. Download & Install the APK
+1. Go to the [**Releases**](https://github.com/NimzPatel/AABrowser-adfree/releases) page of this repository.
+2. Download the latest `AABrowser-adfree.apk` file to your phone and install it.
+3. Connect your phone to your car's Android Auto head unit and launch **AABrowser**.
+   *(Tip: If the app doesn't open immediately, launch a secondary navigation app like Waze first, then switch back to AABrowser).*
 
 ---
 
-## ❓ Troubleshooting
+## 🛠️ Building from Source
 
-**App not starting?**
-If the app fails to launch, try opening a non-Google Maps navigation app (such as **Waze**) first, then open AA Browser.
-
----
-
-## ⚠️ Current Issues
-
-- 🚫 **No Ad Blocking:** Ad filtering is not currently implemented. *(💡 **Tip:** If you want to use your own favorite browser with built-in ad-blocking or other apps like VLC on Android Auto, check out **[AA Anything](https://github.com/kododake/AAAnything)**, another app I built!)*
-- 🚗 **Stationary Use Only**
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/NimzPatel/AABrowser-adfree.git](https://github.com/NimzPatel/AABrowser-adfree.git)
+   ```
+2. Open the project in **Android Studio**.
+3. Let Gradle sync, then select **Build > Build Bundle(s) / APK(s) > Build APK(s)**.
 
 ---
 
-## 🤝 Contributors
+## ☕ Support This Fork
 
-Every contribution makes AA Browser better!
+If you find **AABrowser Ad-Free** useful and want to support future updates and maintenance, consider buying me a coffee! (And don't forget to star/support the original author [kododake](https://github.com/kododake/AABrowser) too).
 
-- 🐛 **Found a bug?** Check for existing issues and open a new one with reproduction steps if none are found.
-- 💡 **Got an idea?** Start a discussion.
-- 🔧 **Wanna code?** Fork the repo and submit a PR!
-- 📸 **Show it off:** Share a photo of AA Browser on your dashboard in the Discussions tab!
-
-<table width="100%">
-  <tr>
-    <td align="center" valign="top" width="20%">
-      <a href="https://github.com/kododake">
-        <img src="https://github.com/kododake.png?s=100" width="60" alt="kododake"/><br />
-        <sub><b>kododake</b></sub>
-      </a><br />
-      <sub>Project Lead & Maintainer</sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <a href="https://github.com/cmacrowther">
-        <img src="https://github.com/cmacrowther.png?s=100" width="60" alt="Colin Crowther"/><br />
-        <sub><b>Colin Crowther</b></sub>
-      </a><br />
-      <sub>Original Design</sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <a href="https://github.com/jigneshbhavani">
-        <img src="https://github.com/jigneshbhavani.png?s=100" width="60" alt="jigneshbhavani"/><br />
-        <sub><b>jigneshbhavani</b></sub>
-      </a><br />
-      <sub>Microphone Support</sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <a href="https://github.com/SaveEditors">
-        <img src="https://github.com/SaveEditors.png?s=100" width="60" alt="SaveEditors"/><br />
-        <sub><b>SaveEditors</b></sub>
-      </a><br />
-      <sub>Multi-tab support, Original Home screen</sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <a href="https://github.com/gregorixG">
-        <img src="https://github.com/gregorixG.png?s=100" width="60" alt="gregorixG"/><br />
-        <sub><b>gregorixG</b></sub>
-      </a><br />
-      <sub>Desktop site UA handling</sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <a href="https://github.com/breakzplatform">
-        <img src="https://github.com/breakzplatform.png?s=100" width="60" alt="breakzplatform"/><br />
-        <sub><b>breakzplatform</b></sub>
-      </a><br />
-      <sub>Custom UA handling</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://buymeacoffee.com/nimez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" ></a>
 
 ---
 
-## 🛡️ Privacy, Reimagined
-I care about the app's growth, but I care about your privacy even more. This app is designed with a **Transparency-First** policy:
+## 🛑 Safety Disclaimer & License
 
-> [!IMPORTANT]
-> **I have ZERO interest in your browsing habits.**
-> - 🚫 **No URL Tracking:** I don't (and physically can't) see which websites you visit, what you search, or what you type.
-> - 🕵️ **Self-Hosted Analytics:** I use a private **Umami** instance. No IP track, No Google, No Meta, no Big Tech trackers.
-> - 🆔 **Anonymous Data:** I only see **"The app was opened"** and **This App Versions**. I use a random, anonymous UUID that isn't tied to your device ID or personal info.
+**FOR STATIONARY & PASSENGER USE ONLY.**
+Never interact with this application while driving or operating a vehicle. The developers (both upstream and of this fork) assume zero liability for misuse or accidents.
 
----
-
-## <img src="https://github.com/kododake/AAAnything/blob/main/assets/icon.png?raw=true" width="32" height="32" valign="middle" alt="AA Anything Logo" /> Want More Than a Browser? Try **AA Anything**!
-
-Love **AA Browser**, but wish you could also run your other favorite apps on your car's screen? Check out **[AA Anything](https://github.com/kododake/AAAnything)** — a brand-new tool I built to unlock your dashboard for everyday Android apps!
-
-- 🎬 **Bring Your Apps to the Dash:** Project media players (like **VLC** — completely free to use!), plus unlock third-party web browsers, finance trackers, and handy utilities directly on Android Auto *(excluding apps with strict DRM or Play Integrity restrictions)*.
-- 📱 **No Root, No PC Required:** Forget complicated ADB commands. Everything happens right on your phone in just a few taps—pick an app, tap **Patch & Install**, and plug in!
-- 🔄 **Effortless In-Place Updates:** Keep all your app data and login sessions intact when updating apps or after Android system updates.
-- 🛡️ **100% Safe for Your Vehicle:** Operates purely over standard Android Auto projection on **Android 15+** with zero modifications to your car's head unit.
-
-<div align="center">
-  <a href="https://github.com/kododake/AAAnything">
-    <img src="https://img.shields.io/badge/Explore-AA_Anything-blue?style=for-the-badge&logo=github&logoColor=white" height="40" alt="Explore AA Anything">
-  </a>
-  &nbsp;
-  <a href="https://github.com/kododake/AAAnything/releases/latest">
-    <img src="https://img.shields.io/badge/Get_It_On-GitHub_Releases-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="Get AA Anything on GitHub Releases">
-  </a>
-</div>
-
----
-
-## ☕ Support the Project
-
-I'm a solo student developer building and maintaining **AA Browser** in my spare time (mostly while fighting `./gradlew` crashes on my machine 😅). If this app makes your parked breaks or road trips a little more enjoyable, please consider buying me a coffee! Your support helps keep me caffeinated, upgrade my dev environment, and keep this project alive.
-
-<div align="center">
-  <a href="https://buymeacoffee.com/kododake">
-    <img src="docs/img/bmc-white-button.png" alt="Buy Me A Coffee" height="48">
-  </a>
-  &nbsp;
-  <a href="https://github.com/sponsors/kododake">
-    <img src="https://img.shields.io/badge/Sponsor_on-GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="48" alt="Sponsor on GitHub">
-  </a>
-</div>
-
-*If you sponsor the project, please let me know in the Discussions! I'd love to add you to our sponsors list as a token of my gratitude.*
-
----
-
-## 📜 Modification Notice (GPLv3 Compliance)
-
-This is a **modified version** of the original [AABrowser by kododake](https://github.com/kododake/AABrowser). 
-In compliance with the GPLv3 license, the following modifications have been made to the original source code:
-*   **Ad-Blocker Added:** Network-level request interception to block known ad domains in `BrowserWebViewClient.kt`.
-*   **YouTube Ad-Skipper Added:** JavaScript injection to automatically skip and hide YouTube video ads.
-
-The original copyright belongs to **kododake**. This modified version is also released under the exact same **GPLv3 License**. You can find the full source code for these modifications in this repository. 
-
-**Safety Reminder:** As stated by the original creator, this browser should only be used by passengers or while parked. Do not use this application while driving.
-
----
-**Stay safe, keep your eyes on the road, and happy browsing! 🚗💨**
+This program is free software: you can redistribute it and/or modify it under the terms of the **GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version**. See the [LICENSE](LICENSE) file for the full license text.
