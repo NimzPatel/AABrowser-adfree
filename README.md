@@ -14,7 +14,7 @@
 This project is a derivative work of **[kododake/AABrowser](https://github.com/kododake/AABrowser)** and is distributed under the terms of the **GNU General Public License v3.0 (GPLv3)**.
 
 - **Original Author:** [kododake](https://github.com/kododake) — Copyright (C) 2026 kododake
-- **Original Repository:** [https://github.com/kododake/AABrowser](https://github.com/kododake/AABrowser)
+- **Original Repository:** (https://github.com/kododake/AABrowser)
 - **Modified by:** [NimzPatel](https://github.com/NimzPatel) (2026)
 
 ### Summary of Modifications in This Fork
